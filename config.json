@@ -18,6 +18,22 @@
     },
     {
       "height": 2880,
+      "compressed_path": "./photos/australia - byron bay & noosa/image12.min.png",
+      "width": 2160,
+      "compressed": false,
+      "placeholder_path": "./photos/australia - byron bay & noosa/image12.placeholder.png",
+      "path": "./photos/australia - byron bay & noosa/image12.png"
+    },
+    {
+      "height": 3648,
+      "compressed_path": "./photos/australia - byron bay & noosa/image11.min.png",
+      "width": 2736,
+      "compressed": false,
+      "placeholder_path": "./photos/australia - byron bay & noosa/image11.placeholder.png",
+      "path": "./photos/australia - byron bay & noosa/image11.png"
+    },
+    {
+      "height": 2880,
       "compressed_path": "./photos/australia - byron bay & noosa/image10.min.png",
       "width": 2160,
       "compressed": false,
@@ -99,6 +115,14 @@
       "path": "./photos/new zealand/image9.png"
     },
     {
+      "height": 1350,
+      "compressed_path": "./photos/new zealand/image10.min.png",
+      "width": 1800,
+      "compressed": false,
+      "placeholder_path": "./photos/new zealand/image10.placeholder.png",
+      "path": "./photos/new zealand/image10.png"
+    },
+    {
       "height": 1349,
       "compressed_path": "./photos/new zealand/image7.min.png",
       "width": 1800,
@@ -137,14 +161,6 @@
       "compressed": false,
       "placeholder_path": "./photos/new zealand/image1.placeholder.png",
       "path": "./photos/new zealand/image1.png"
-    },
-    {
-      "height": 1350,
-      "compressed_path": "./photos/new zealand/image0.min.png",
-      "width": 1800,
-      "compressed": false,
-      "placeholder_path": "./photos/new zealand/image0.placeholder.png",
-      "path": "./photos/new zealand/image0.png"
     },
     {
       "height": 1349,
@@ -293,6 +309,14 @@
       "compressed": false,
       "placeholder_path": "./photos/australia - tasmania/image12.placeholder.png",
       "path": "./photos/australia - tasmania/image12.png"
+    },
+    {
+      "height": 1620,
+      "compressed_path": "./photos/australia - tasmania/image13.min.png",
+      "width": 2160,
+      "compressed": false,
+      "placeholder_path": "./photos/australia - tasmania/image13.placeholder.png",
+      "path": "./photos/australia - tasmania/image13.png"
     },
     {
       "height": 1080,
