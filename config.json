@@ -1,4 +1,102 @@
 {
+  "Australia": [
+    {
+      "height": 1920,
+      "compressed_path": "./photos/Australia/image8.min.png",
+      "width": 1440,
+      "compressed": false,
+      "placeholder_path": "./photos/Australia/image8.placeholder.png",
+      "path": "./photos/Australia/image8.png"
+    },
+    {
+      "height": 1920,
+      "compressed_path": "./photos/Australia/image9.min.png",
+      "width": 1440,
+      "compressed": false,
+      "placeholder_path": "./photos/Australia/image9.placeholder.png",
+      "path": "./photos/Australia/image9.png"
+    },
+    {
+      "height": 1845,
+      "compressed_path": "./photos/Australia/image12.min.png",
+      "width": 1440,
+      "compressed": false,
+      "placeholder_path": "./photos/Australia/image12.placeholder.png",
+      "path": "./photos/Australia/image12.png"
+    },
+    {
+      "height": 1080,
+      "compressed_path": "./photos/Australia/image11.min.png",
+      "width": 1440,
+      "compressed": false,
+      "placeholder_path": "./photos/Australia/image11.placeholder.png",
+      "path": "./photos/Australia/image11.png"
+    },
+    {
+      "height": 1080,
+      "compressed_path": "./photos/Australia/image10.min.png",
+      "width": 1440,
+      "compressed": false,
+      "placeholder_path": "./photos/Australia/image10.placeholder.png",
+      "path": "./photos/Australia/image10.png"
+    },
+    {
+      "height": 1080,
+      "compressed_path": "./photos/Australia/image7.min.png",
+      "width": 1440,
+      "compressed": false,
+      "placeholder_path": "./photos/Australia/image7.placeholder.png",
+      "path": "./photos/Australia/image7.png"
+    },
+    {
+      "height": 1080,
+      "compressed_path": "./photos/Australia/image6.min.png",
+      "width": 1440,
+      "compressed": false,
+      "placeholder_path": "./photos/Australia/image6.placeholder.png",
+      "path": "./photos/Australia/image6.png"
+    },
+    {
+      "height": 1799,
+      "compressed_path": "./photos/Australia/image4.min.png",
+      "width": 1440,
+      "compressed": false,
+      "placeholder_path": "./photos/Australia/image4.placeholder.png",
+      "path": "./photos/Australia/image4.png"
+    },
+    {
+      "height": 1800,
+      "compressed_path": "./photos/Australia/image5.min.png",
+      "width": 1440,
+      "compressed": false,
+      "placeholder_path": "./photos/Australia/image5.placeholder.png",
+      "path": "./photos/Australia/image5.png"
+    },
+    {
+      "height": 900,
+      "compressed_path": "./photos/Australia/image1.min.png",
+      "width": 720,
+      "compressed": false,
+      "placeholder_path": "./photos/Australia/image1.placeholder.png",
+      "path": "./photos/Australia/image1.png"
+    },
+    {
+      "height": 1080,
+      "compressed_path": "./photos/Australia/image2.min.png",
+      "width": 1440,
+      "compressed": false,
+      "placeholder_path": "./photos/Australia/image2.placeholder.png",
+      "path": "./photos/Australia/image2.png"
+    },
+    {
+      "height": 1080,
+      "compressed_path": "./photos/Australia/image3.min.png",
+      "width": 1440,
+      "compressed": false,
+      "placeholder_path": "./photos/Australia/image3.placeholder.png",
+      "path": "./photos/Australia/image3.png"
+    }
+  ],
   "Mockups": [
     {
       "height": 1920,
