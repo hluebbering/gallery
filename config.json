@@ -375,9 +375,9 @@
       "path": "./photos/australia - tasmania/image5.png"
     },
     {
-      "height": 900,
+      "height": 1800,
       "compressed_path": "./photos/australia - tasmania/image1.min.png",
-      "width": 720,
+      "width": 1440,
       "compressed": false,
       "placeholder_path": "./photos/australia - tasmania/image1.placeholder.png",
       "path": "./photos/australia - tasmania/image1.png"
