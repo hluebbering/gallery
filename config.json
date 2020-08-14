@@ -1,296 +1,426 @@
 {
-  "Australia": [
+  "australia - byron bay & noosa": [
     {
-      "height": 1920,
-      "compressed_path": "./photos/Australia/image8.min.png",
-      "width": 1440,
+      "height": 3024,
+      "compressed_path": "./photos/australia - byron bay & noosa/image8.min.png",
+      "width": 4032,
       "compressed": false,
-      "placeholder_path": "./photos/Australia/image8.placeholder.png",
-      "path": "./photos/Australia/image8.png"
+      "placeholder_path": "./photos/australia - byron bay & noosa/image8.placeholder.png",
+      "path": "./photos/australia - byron bay & noosa/image8.png"
+    },
+    {
+      "height": 3024,
+      "compressed_path": "./photos/australia - byron bay & noosa/image9.min.png",
+      "width": 4032,
+      "compressed": false,
+      "placeholder_path": "./photos/australia - byron bay & noosa/image9.placeholder.png",
+      "path": "./photos/australia - byron bay & noosa/image9.png"
+    },
+    {
+      "height": 4032,
+      "compressed_path": "./photos/australia - byron bay & noosa/image00.min.png",
+      "width": 3024,
+      "compressed": false,
+      "placeholder_path": "./photos/australia - byron bay & noosa/image00.placeholder.png",
+      "path": "./photos/australia - byron bay & noosa/image00.png"
+    },
+    {
+      "height": 4032,
+      "compressed_path": "./photos/australia - byron bay & noosa/image12.min.png",
+      "width": 3024,
+      "compressed": false,
+      "placeholder_path": "./photos/australia - byron bay & noosa/image12.placeholder.png",
+      "path": "./photos/australia - byron bay & noosa/image12.png"
+    },
+    {
+      "height": 3024,
+      "compressed_path": "./photos/australia - byron bay & noosa/image13.min.png",
+      "width": 4032,
+      "compressed": false,
+      "placeholder_path": "./photos/australia - byron bay & noosa/image13.placeholder.png",
+      "path": "./photos/australia - byron bay & noosa/image13.png"
+    },
+    {
+      "height": 4032,
+      "compressed_path": "./photos/australia - byron bay & noosa/image11.min.png",
+      "width": 3024,
+      "compressed": false,
+      "placeholder_path": "./photos/australia - byron bay & noosa/image11.placeholder.png",
+      "path": "./photos/australia - byron bay & noosa/image11.png"
+    },
+    {
+      "height": 4032,
+      "compressed_path": "./photos/australia - byron bay & noosa/image10.min.png",
+      "width": 3024,
+      "compressed": false,
+      "placeholder_path": "./photos/australia - byron bay & noosa/image10.placeholder.png",
+      "path": "./photos/australia - byron bay & noosa/image10.png"
+    },
+    {
+      "height": 4032,
+      "compressed_path": "./photos/australia - byron bay & noosa/image7.min.png",
+      "width": 3024,
+      "compressed": false,
+      "placeholder_path": "./photos/australia - byron bay & noosa/image7.placeholder.png",
+      "path": "./photos/australia - byron bay & noosa/image7.png"
     },
     {
       "height": 1920,
-      "compressed_path": "./photos/Australia/image9.min.png",
-      "width": 1440,
+      "compressed_path": "./photos/australia - byron bay & noosa/image6.min.png",
+      "width": 1536,
       "compressed": false,
-      "placeholder_path": "./photos/Australia/image9.placeholder.png",
-      "path": "./photos/Australia/image9.png"
+      "placeholder_path": "./photos/australia - byron bay & noosa/image6.placeholder.png",
+      "path": "./photos/australia - byron bay & noosa/image6.png"
     },
     {
-      "height": 1845,
-      "compressed_path": "./photos/Australia/image12.min.png",
-      "width": 1440,
+      "height": 3072,
+      "compressed_path": "./photos/australia - byron bay & noosa/image4.min.png",
+      "width": 4096,
       "compressed": false,
-      "placeholder_path": "./photos/Australia/image12.placeholder.png",
-      "path": "./photos/Australia/image12.png"
+      "placeholder_path": "./photos/australia - byron bay & noosa/image4.placeholder.png",
+      "path": "./photos/australia - byron bay & noosa/image4.png"
     },
     {
-      "height": 1080,
-      "compressed_path": "./photos/Australia/image11.min.png",
-      "width": 1440,
+      "height": 4032,
+      "compressed_path": "./photos/australia - byron bay & noosa/image1.min.png",
+      "width": 3024,
       "compressed": false,
-      "placeholder_path": "./photos/Australia/image11.placeholder.png",
-      "path": "./photos/Australia/image11.png"
+      "placeholder_path": "./photos/australia - byron bay & noosa/image1.placeholder.png",
+      "path": "./photos/australia - byron bay & noosa/image1.png"
     },
     {
-      "height": 1080,
-      "compressed_path": "./photos/Australia/image10.min.png",
-      "width": 1440,
+      "height": 4032,
+      "compressed_path": "./photos/australia - byron bay & noosa/image0.min.png",
+      "width": 3024,
       "compressed": false,
-      "placeholder_path": "./photos/Australia/image10.placeholder.png",
-      "path": "./photos/Australia/image10.png"
+      "placeholder_path": "./photos/australia - byron bay & noosa/image0.placeholder.png",
+      "path": "./photos/australia - byron bay & noosa/image0.png"
     },
     {
-      "height": 1080,
-      "compressed_path": "./photos/Australia/image7.min.png",
-      "width": 1440,
+      "height": 4032,
+      "compressed_path": "./photos/australia - byron bay & noosa/image2.min.png",
+      "width": 3024,
       "compressed": false,
-      "placeholder_path": "./photos/Australia/image7.placeholder.png",
-      "path": "./photos/Australia/image7.png"
+      "placeholder_path": "./photos/australia - byron bay & noosa/image2.placeholder.png",
+      "path": "./photos/australia - byron bay & noosa/image2.png"
     },
     {
-      "height": 1080,
-      "compressed_path": "./photos/Australia/image6.min.png",
-      "width": 1440,
+      "height": 3024,
+      "compressed_path": "./photos/australia - byron bay & noosa/image3.min.png",
+      "width": 4032,
       "compressed": false,
-      "placeholder_path": "./photos/Australia/image6.placeholder.png",
-      "path": "./photos/Australia/image6.png"
-    },
-    {
-      "height": 1799,
-      "compressed_path": "./photos/Australia/image4.min.png",
-      "width": 1440,
-      "compressed": false,
-      "placeholder_path": "./photos/Australia/image4.placeholder.png",
-      "path": "./photos/Australia/image4.png"
-    },
-    {
-      "height": 1800,
-      "compressed_path": "./photos/Australia/image5.min.png",
-      "width": 1440,
-      "compressed": false,
-      "placeholder_path": "./photos/Australia/image5.placeholder.png",
-      "path": "./photos/Australia/image5.png"
-    },
-    {
-      "height": 900,
-      "compressed_path": "./photos/Australia/image1.min.png",
-      "width": 720,
-      "compressed": false,
-      "placeholder_path": "./photos/Australia/image1.placeholder.png",
-      "path": "./photos/Australia/image1.png"
-    },
-    {
-      "height": 1080,
-      "compressed_path": "./photos/Australia/image2.min.png",
-      "width": 1440,
-      "compressed": false,
-      "placeholder_path": "./photos/Australia/image2.placeholder.png",
-      "path": "./photos/Australia/image2.png"
-    },
-    {
-      "height": 1080,
-      "compressed_path": "./photos/Australia/image3.min.png",
-      "width": 1440,
-      "compressed": false,
-      "placeholder_path": "./photos/Australia/image3.placeholder.png",
-      "path": "./photos/Australia/image3.png"
+      "placeholder_path": "./photos/australia - byron bay & noosa/image3.placeholder.png",
+      "path": "./photos/australia - byron bay & noosa/image3.png"
     }
   ],
-  "Mockups": [
+  "new zealand": [
     {
-      "height": 1920,
-      "compressed_path": "./photos/Mockups/image8.min.png",
-      "width": 1440,
+      "height": 4032,
+      "compressed_path": "./photos/new zealand/image8.min.png",
+      "width": 3024,
       "compressed": false,
-      "placeholder_path": "./photos/Mockups/image8.placeholder.png",
-      "path": "./photos/Mockups/image8.png"
+      "placeholder_path": "./photos/new zealand/image8.placeholder.png",
+      "path": "./photos/new zealand/image8.png"
     },
     {
-      "height": 1920,
-      "compressed_path": "./photos/Mockups/image9.min.png",
-      "width": 1440,
+      "height": 3024,
+      "compressed_path": "./photos/new zealand/image9.min.png",
+      "width": 4032,
       "compressed": false,
-      "placeholder_path": "./photos/Mockups/image9.placeholder.png",
-      "path": "./photos/Mockups/image9.png"
+      "placeholder_path": "./photos/new zealand/image9.placeholder.png",
+      "path": "./photos/new zealand/image9.png"
     },
     {
-      "height": 1845,
-      "compressed_path": "./photos/Mockups/image12.min.png",
-      "width": 1440,
+      "height": 3024,
+      "compressed_path": "./photos/new zealand/image10.min.png",
+      "width": 4032,
       "compressed": false,
-      "placeholder_path": "./photos/Mockups/image12.placeholder.png",
-      "path": "./photos/Mockups/image12.png"
+      "placeholder_path": "./photos/new zealand/image10.placeholder.png",
+      "path": "./photos/new zealand/image10.png"
     },
     {
-      "height": 1080,
-      "compressed_path": "./photos/Mockups/image11.min.png",
-      "width": 1440,
+      "height": 2265,
+      "compressed_path": "./photos/new zealand/image7.min.png",
+      "width": 3022,
       "compressed": false,
-      "placeholder_path": "./photos/Mockups/image11.placeholder.png",
-      "path": "./photos/Mockups/image11.png"
+      "placeholder_path": "./photos/new zealand/image7.placeholder.png",
+      "path": "./photos/new zealand/image7.png"
     },
     {
-      "height": 1080,
-      "compressed_path": "./photos/Mockups/image10.min.png",
-      "width": 1440,
+      "height": 4032,
+      "compressed_path": "./photos/new zealand/image6.min.png",
+      "width": 3024,
       "compressed": false,
-      "placeholder_path": "./photos/Mockups/image10.placeholder.png",
-      "path": "./photos/Mockups/image10.png"
+      "placeholder_path": "./photos/new zealand/image6.placeholder.png",
+      "path": "./photos/new zealand/image6.png"
     },
     {
-      "height": 1080,
-      "compressed_path": "./photos/Mockups/image7.min.png",
-      "width": 1440,
+      "height": 3024,
+      "compressed_path": "./photos/new zealand/image4.min.png",
+      "width": 4032,
       "compressed": false,
-      "placeholder_path": "./photos/Mockups/image7.placeholder.png",
-      "path": "./photos/Mockups/image7.png"
+      "placeholder_path": "./photos/new zealand/image4.placeholder.png",
+      "path": "./photos/new zealand/image4.png"
     },
     {
-      "height": 1080,
-      "compressed_path": "./photos/Mockups/image6.min.png",
-      "width": 1440,
+      "height": 3024,
+      "compressed_path": "./photos/new zealand/image5.min.png",
+      "width": 4032,
       "compressed": false,
-      "placeholder_path": "./photos/Mockups/image6.placeholder.png",
-      "path": "./photos/Mockups/image6.png"
+      "placeholder_path": "./photos/new zealand/image5.placeholder.png",
+      "path": "./photos/new zealand/image5.png"
     },
     {
-      "height": 1799,
-      "compressed_path": "./photos/Mockups/image4.min.png",
-      "width": 1440,
+      "height": 3024,
+      "compressed_path": "./photos/new zealand/image1.min.png",
+      "width": 4032,
       "compressed": false,
-      "placeholder_path": "./photos/Mockups/image4.placeholder.png",
-      "path": "./photos/Mockups/image4.png"
+      "placeholder_path": "./photos/new zealand/image1.placeholder.png",
+      "path": "./photos/new zealand/image1.png"
     },
     {
-      "height": 1800,
-      "compressed_path": "./photos/Mockups/image5.min.png",
-      "width": 1440,
+      "height": 3024,
+      "compressed_path": "./photos/new zealand/image0.min.png",
+      "width": 4032,
       "compressed": false,
-      "placeholder_path": "./photos/Mockups/image5.placeholder.png",
-      "path": "./photos/Mockups/image5.png"
+      "placeholder_path": "./photos/new zealand/image0.placeholder.png",
+      "path": "./photos/new zealand/image0.png"
     },
     {
-      "height": 900,
-      "compressed_path": "./photos/Mockups/image1.min.png",
-      "width": 720,
+      "height": 3021,
+      "compressed_path": "./photos/new zealand/image2.min.png",
+      "width": 4032,
       "compressed": false,
-      "placeholder_path": "./photos/Mockups/image1.placeholder.png",
-      "path": "./photos/Mockups/image1.png"
+      "placeholder_path": "./photos/new zealand/image2.placeholder.png",
+      "path": "./photos/new zealand/image2.png"
     },
     {
-      "height": 1080,
-      "compressed_path": "./photos/Mockups/image2.min.png",
-      "width": 1440,
+      "height": 4032,
+      "compressed_path": "./photos/new zealand/image3.min.png",
+      "width": 3024,
       "compressed": false,
-      "placeholder_path": "./photos/Mockups/image2.placeholder.png",
-      "path": "./photos/Mockups/image2.png"
-    },
-    {
-      "height": 1080,
-      "compressed_path": "./photos/Mockups/image3.min.png",
-      "width": 1440,
-      "compressed": false,
-      "placeholder_path": "./photos/Mockups/image3.placeholder.png",
-      "path": "./photos/Mockups/image3.png"
+      "placeholder_path": "./photos/new zealand/image3.placeholder.png",
+      "path": "./photos/new zealand/image3.png"
     }
   ],
-  "Travel Photography": [
+  "australia - sydney": [
+    {
+      "height": 3022,
+      "compressed_path": "./photos/australia - sydney/image8.min.png",
+      "width": 4032,
+      "compressed": false,
+      "placeholder_path": "./photos/australia - sydney/image8.placeholder.png",
+      "path": "./photos/australia - sydney/image8.png"
+    },
+    {
+      "height": 4032,
+      "compressed_path": "./photos/australia - sydney/image9.min.png",
+      "width": 3024,
+      "compressed": false,
+      "placeholder_path": "./photos/australia - sydney/image9.placeholder.png",
+      "path": "./photos/australia - sydney/image9.png"
+    },
+    {
+      "height": 4032,
+      "compressed_path": "./photos/australia - sydney/image14.min.png",
+      "width": 3024,
+      "compressed": false,
+      "placeholder_path": "./photos/australia - sydney/image14.placeholder.png",
+      "path": "./photos/australia - sydney/image14.png"
+    },
+    {
+      "height": 4032,
+      "compressed_path": "./photos/australia - sydney/image15.min.png",
+      "width": 3024,
+      "compressed": false,
+      "placeholder_path": "./photos/australia - sydney/image15.placeholder.png",
+      "path": "./photos/australia - sydney/image15.png"
+    },
+    {
+      "height": 3024,
+      "compressed_path": "./photos/australia - sydney/image12.min.png",
+      "width": 4032,
+      "compressed": false,
+      "placeholder_path": "./photos/australia - sydney/image12.placeholder.png",
+      "path": "./photos/australia - sydney/image12.png"
+    },
+    {
+      "height": 1535,
+      "compressed_path": "./photos/australia - sydney/image13.min.png",
+      "width": 2049,
+      "compressed": false,
+      "placeholder_path": "./photos/australia - sydney/image13.placeholder.png",
+      "path": "./photos/australia - sydney/image13.png"
+    },
+    {
+      "height": 3024,
+      "compressed_path": "./photos/australia - sydney/image11.min.png",
+      "width": 4032,
+      "compressed": false,
+      "placeholder_path": "./photos/australia - sydney/image11.placeholder.png",
+      "path": "./photos/australia - sydney/image11.png"
+    },
+    {
+      "height": 4032,
+      "compressed_path": "./photos/australia - sydney/image10.min.png",
+      "width": 3024,
+      "compressed": false,
+      "placeholder_path": "./photos/australia - sydney/image10.placeholder.png",
+      "path": "./photos/australia - sydney/image10.png"
+    },
+    {
+      "height": 3024,
+      "compressed_path": "./photos/australia - sydney/image7.min.png",
+      "width": 4032,
+      "compressed": false,
+      "placeholder_path": "./photos/australia - sydney/image7.placeholder.png",
+      "path": "./photos/australia - sydney/image7.png"
+    },
+    {
+      "height": 4032,
+      "compressed_path": "./photos/australia - sydney/image6.min.png",
+      "width": 2882,
+      "compressed": false,
+      "placeholder_path": "./photos/australia - sydney/image6.placeholder.png",
+      "path": "./photos/australia - sydney/image6.png"
+    },
+    {
+      "height": 4032,
+      "compressed_path": "./photos/australia - sydney/image4.min.png",
+      "width": 3024,
+      "compressed": false,
+      "placeholder_path": "./photos/australia - sydney/image4.placeholder.png",
+      "path": "./photos/australia - sydney/image4.png"
+    },
+    {
+      "height": 4032,
+      "compressed_path": "./photos/australia - sydney/image5.min.png",
+      "width": 3024,
+      "compressed": false,
+      "placeholder_path": "./photos/australia - sydney/image5.placeholder.png",
+      "path": "./photos/australia - sydney/image5.png"
+    },
+    {
+      "height": 4032,
+      "compressed_path": "./photos/australia - sydney/image1.min.png",
+      "width": 3024,
+      "compressed": false,
+      "placeholder_path": "./photos/australia - sydney/image1.placeholder.png",
+      "path": "./photos/australia - sydney/image1.png"
+    },
+    {
+      "height": 1064,
+      "compressed_path": "./photos/australia - sydney/image2.min.png",
+      "width": 1125,
+      "compressed": false,
+      "placeholder_path": "./photos/australia - sydney/image2.placeholder.png",
+      "path": "./photos/australia - sydney/image2.png"
+    },
+    {
+      "height": 3024,
+      "compressed_path": "./photos/australia - sydney/image3.min.png",
+      "width": 4032,
+      "compressed": false,
+      "placeholder_path": "./photos/australia - sydney/image3.placeholder.png",
+      "path": "./photos/australia - sydney/image3.png"
+    }
+  ],
+  "australia - tasmania": [
     {
       "height": 1920,
-      "compressed_path": "./photos/Travel Photography/image8.min.png",
+      "compressed_path": "./photos/australia - tasmania/image8.min.png",
       "width": 1440,
       "compressed": false,
-      "placeholder_path": "./photos/Travel Photography/image8.placeholder.png",
-      "path": "./photos/Travel Photography/image8.png"
+      "placeholder_path": "./photos/australia - tasmania/image8.placeholder.png",
+      "path": "./photos/australia - tasmania/image8.png"
     },
     {
       "height": 1920,
-      "compressed_path": "./photos/Travel Photography/image9.min.png",
+      "compressed_path": "./photos/australia - tasmania/image9.min.png",
       "width": 1440,
       "compressed": false,
-      "placeholder_path": "./photos/Travel Photography/image9.placeholder.png",
-      "path": "./photos/Travel Photography/image9.png"
+      "placeholder_path": "./photos/australia - tasmania/image9.placeholder.png",
+      "path": "./photos/australia - tasmania/image9.png"
     },
     {
       "height": 1845,
-      "compressed_path": "./photos/Travel Photography/image12.min.png",
+      "compressed_path": "./photos/australia - tasmania/image12.min.png",
       "width": 1440,
       "compressed": false,
-      "placeholder_path": "./photos/Travel Photography/image12.placeholder.png",
-      "path": "./photos/Travel Photography/image12.png"
+      "placeholder_path": "./photos/australia - tasmania/image12.placeholder.png",
+      "path": "./photos/australia - tasmania/image12.png"
     },
     {
       "height": 1080,
-      "compressed_path": "./photos/Travel Photography/image11.min.png",
+      "compressed_path": "./photos/australia - tasmania/image11.min.png",
       "width": 1440,
       "compressed": false,
-      "placeholder_path": "./photos/Travel Photography/image11.placeholder.png",
-      "path": "./photos/Travel Photography/image11.png"
+      "placeholder_path": "./photos/australia - tasmania/image11.placeholder.png",
+      "path": "./photos/australia - tasmania/image11.png"
     },
     {
       "height": 1080,
-      "compressed_path": "./photos/Travel Photography/image10.min.png",
+      "compressed_path": "./photos/australia - tasmania/image10.min.png",
       "width": 1440,
       "compressed": false,
-      "placeholder_path": "./photos/Travel Photography/image10.placeholder.png",
-      "path": "./photos/Travel Photography/image10.png"
+      "placeholder_path": "./photos/australia - tasmania/image10.placeholder.png",
+      "path": "./photos/australia - tasmania/image10.png"
     },
     {
       "height": 1080,
-      "compressed_path": "./photos/Travel Photography/image7.min.png",
+      "compressed_path": "./photos/australia - tasmania/image7.min.png",
       "width": 1440,
       "compressed": false,
-      "placeholder_path": "./photos/Travel Photography/image7.placeholder.png",
-      "path": "./photos/Travel Photography/image7.png"
+      "placeholder_path": "./photos/australia - tasmania/image7.placeholder.png",
+      "path": "./photos/australia - tasmania/image7.png"
     },
     {
       "height": 1080,
-      "compressed_path": "./photos/Travel Photography/image6.min.png",
+      "compressed_path": "./photos/australia - tasmania/image6.min.png",
       "width": 1440,
       "compressed": false,
-      "placeholder_path": "./photos/Travel Photography/image6.placeholder.png",
-      "path": "./photos/Travel Photography/image6.png"
+      "placeholder_path": "./photos/australia - tasmania/image6.placeholder.png",
+      "path": "./photos/australia - tasmania/image6.png"
     },
     {
       "height": 1799,
-      "compressed_path": "./photos/Travel Photography/image4.min.png",
+      "compressed_path": "./photos/australia - tasmania/image4.min.png",
       "width": 1440,
       "compressed": false,
-      "placeholder_path": "./photos/Travel Photography/image4.placeholder.png",
-      "path": "./photos/Travel Photography/image4.png"
+      "placeholder_path": "./photos/australia - tasmania/image4.placeholder.png",
+      "path": "./photos/australia - tasmania/image4.png"
     },
     {
       "height": 1800,
-      "compressed_path": "./photos/Travel Photography/image5.min.png",
+      "compressed_path": "./photos/australia - tasmania/image5.min.png",
       "width": 1440,
       "compressed": false,
-      "placeholder_path": "./photos/Travel Photography/image5.placeholder.png",
-      "path": "./photos/Travel Photography/image5.png"
+      "placeholder_path": "./photos/australia - tasmania/image5.placeholder.png",
+      "path": "./photos/australia - tasmania/image5.png"
     },
     {
       "height": 900,
-      "compressed_path": "./photos/Travel Photography/image1.min.png",
+      "compressed_path": "./photos/australia - tasmania/image1.min.png",
       "width": 720,
       "compressed": false,
-      "placeholder_path": "./photos/Travel Photography/image1.placeholder.png",
-      "path": "./photos/Travel Photography/image1.png"
+      "placeholder_path": "./photos/australia - tasmania/image1.placeholder.png",
+      "path": "./photos/australia - tasmania/image1.png"
     },
     {
       "height": 1080,
-      "compressed_path": "./photos/Travel Photography/image2.min.png",
+      "compressed_path": "./photos/australia - tasmania/image2.min.png",
       "width": 1440,
       "compressed": false,
-      "placeholder_path": "./photos/Travel Photography/image2.placeholder.png",
-      "path": "./photos/Travel Photography/image2.png"
+      "placeholder_path": "./photos/australia - tasmania/image2.placeholder.png",
+      "path": "./photos/australia - tasmania/image2.png"
     },
     {
       "height": 1080,
-      "compressed_path": "./photos/Travel Photography/image3.min.png",
+      "compressed_path": "./photos/australia - tasmania/image3.min.png",
       "width": 1440,
       "compressed": false,
-      "placeholder_path": "./photos/Travel Photography/image3.placeholder.png",
-      "path": "./photos/Travel Photography/image3.png"
+      "placeholder_path": "./photos/australia - tasmania/image3.placeholder.png",
+      "path": "./photos/australia - tasmania/image3.png"
     }
   ]
 }
