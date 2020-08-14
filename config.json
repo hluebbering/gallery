@@ -221,20 +221,20 @@
       "path": "./photos/australia - sydney/image16.png"
     },
     {
-      "height": 1080,
-      "compressed_path": "./photos/australia - sydney/image12.min.png",
-      "width": 1440,
-      "compressed": false,
-      "placeholder_path": "./photos/australia - sydney/image12.placeholder.png",
-      "path": "./photos/australia - sydney/image12.png"
-    },
-    {
       "height": 1079,
       "compressed_path": "./photos/australia - sydney/image13.min.png",
       "width": 1440,
       "compressed": false,
       "placeholder_path": "./photos/australia - sydney/image13.placeholder.png",
       "path": "./photos/australia - sydney/image13.png"
+    },
+    {
+      "height": 4032,
+      "compressed_path": "./photos/australia - sydney/image10.min.png",
+      "width": 3024,
+      "compressed": false,
+      "placeholder_path": "./photos/australia - sydney/image10.placeholder.png",
+      "path": "./photos/australia - sydney/image10.png"
     },
     {
       "height": 1080,
