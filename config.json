@@ -17,14 +17,6 @@
       "path": "./photos/australia - byron bay & noosa/image9.png"
     },
     {
-      "height": 1920,
-      "compressed_path": "./photos/australia - byron bay & noosa/image00.min.png",
-      "width": 1440,
-      "compressed": false,
-      "placeholder_path": "./photos/australia - byron bay & noosa/image00.placeholder.png",
-      "path": "./photos/australia - byron bay & noosa/image00.png"
-    },
-    {
       "height": 2880,
       "compressed_path": "./photos/australia - byron bay & noosa/image12.min.png",
       "width": 2160,
@@ -39,14 +31,6 @@
       "compressed": false,
       "placeholder_path": "./photos/australia - byron bay & noosa/image13.placeholder.png",
       "path": "./photos/australia - byron bay & noosa/image13.png"
-    },
-    {
-      "height": 2880,
-      "compressed_path": "./photos/australia - byron bay & noosa/image11.min.png",
-      "width": 2160,
-      "compressed": false,
-      "placeholder_path": "./photos/australia - byron bay & noosa/image11.placeholder.png",
-      "path": "./photos/australia - byron bay & noosa/image11.png"
     },
     {
       "height": 2880,
@@ -90,14 +74,6 @@
     },
     {
       "height": 1920,
-      "compressed_path": "./photos/australia - byron bay & noosa/image0.min.png",
-      "width": 1440,
-      "compressed": false,
-      "placeholder_path": "./photos/australia - byron bay & noosa/image0.placeholder.png",
-      "path": "./photos/australia - byron bay & noosa/image0.png"
-    },
-    {
-      "height": 1920,
       "compressed_path": "./photos/australia - byron bay & noosa/image2.min.png",
       "width": 1440,
       "compressed": false,
@@ -114,14 +90,6 @@
     }
   ],
   "new zealand": [
-    {
-      "height": 2400,
-      "compressed_path": "./photos/new zealand/image8.min.png",
-      "width": 1800,
-      "compressed": false,
-      "placeholder_path": "./photos/new zealand/image8.placeholder.png",
-      "path": "./photos/new zealand/image8.png"
-    },
     {
       "height": 1350,
       "compressed_path": "./photos/new zealand/image9.min.png",
@@ -251,22 +219,6 @@
       "compressed": false,
       "placeholder_path": "./photos/australia - sydney/image13.placeholder.png",
       "path": "./photos/australia - sydney/image13.png"
-    },
-    {
-      "height": 1080,
-      "compressed_path": "./photos/australia - sydney/image11.min.png",
-      "width": 1440,
-      "compressed": false,
-      "placeholder_path": "./photos/australia - sydney/image11.placeholder.png",
-      "path": "./photos/australia - sydney/image11.png"
-    },
-    {
-      "height": 1920,
-      "compressed_path": "./photos/australia - sydney/image10.min.png",
-      "width": 1440,
-      "compressed": false,
-      "placeholder_path": "./photos/australia - sydney/image10.placeholder.png",
-      "path": "./photos/australia - sydney/image10.png"
     },
     {
       "height": 1080,
