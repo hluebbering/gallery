@@ -18,22 +18,6 @@
     },
     {
       "height": 2880,
-      "compressed_path": "./photos/australia - byron bay & noosa/image12.min.png",
-      "width": 2160,
-      "compressed": false,
-      "placeholder_path": "./photos/australia - byron bay & noosa/image12.placeholder.png",
-      "path": "./photos/australia - byron bay & noosa/image12.png"
-    },
-    {
-      "height": 1620,
-      "compressed_path": "./photos/australia - byron bay & noosa/image13.min.png",
-      "width": 2160,
-      "compressed": false,
-      "placeholder_path": "./photos/australia - byron bay & noosa/image13.placeholder.png",
-      "path": "./photos/australia - byron bay & noosa/image13.png"
-    },
-    {
-      "height": 2880,
       "compressed_path": "./photos/australia - byron bay & noosa/image10.min.png",
       "width": 2160,
       "compressed": false,
@@ -49,7 +33,7 @@
       "path": "./photos/australia - byron bay & noosa/image7.png"
     },
     {
-      "height": 2700,
+      "height": 2880,
       "compressed_path": "./photos/australia - byron bay & noosa/image6.min.png",
       "width": 2160,
       "compressed": false,
@@ -63,6 +47,14 @@
       "compressed": false,
       "placeholder_path": "./photos/australia - byron bay & noosa/image4.placeholder.png",
       "path": "./photos/australia - byron bay & noosa/image4.png"
+    },
+    {
+      "height": 2700,
+      "compressed_path": "./photos/australia - byron bay & noosa/image5.min.png",
+      "width": 2160,
+      "compressed": false,
+      "placeholder_path": "./photos/australia - byron bay & noosa/image5.placeholder.png",
+      "path": "./photos/australia - byron bay & noosa/image5.png"
     },
     {
       "height": 1920,
@@ -92,19 +84,19 @@
   "new zealand": [
     {
       "height": 1350,
+      "compressed_path": "./photos/new zealand/image8.min.png",
+      "width": 1800,
+      "compressed": false,
+      "placeholder_path": "./photos/new zealand/image8.placeholder.png",
+      "path": "./photos/new zealand/image8.png"
+    },
+    {
+      "height": 1350,
       "compressed_path": "./photos/new zealand/image9.min.png",
       "width": 1800,
       "compressed": false,
       "placeholder_path": "./photos/new zealand/image9.placeholder.png",
       "path": "./photos/new zealand/image9.png"
-    },
-    {
-      "height": 1350,
-      "compressed_path": "./photos/new zealand/image10.min.png",
-      "width": 1800,
-      "compressed": false,
-      "placeholder_path": "./photos/new zealand/image10.placeholder.png",
-      "path": "./photos/new zealand/image10.png"
     },
     {
       "height": 1349,
